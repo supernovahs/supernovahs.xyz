@@ -1,5 +1,5 @@
 import styled from "styled-components";
-
+import Link from "next/link";
 export default function Header(){
 
     const Contact = styled.div`
@@ -29,16 +29,16 @@ export default function Header(){
       <>
         <Contact>
             <div>
-                <a href="/">
+                <Link href= "/">
                     <img src="logo.png" alt="" height="40" width="40" />
-                </a>
+                </Link>
             </div>
             <div>
             <ul>
 
-            <li >  Twitter </li>
-            <li>Github</li>
-            <li>Resume</li>
+            <li > <Link href = "https://twitter.com/harshit16024263">Twitter</Link> </li>
+            <li> <Link href = "https://github.com/supernovahs">Github</Link> </li>
+            <li> <Link href = "">Resume</Link> </li>
             </ul>
             </div>
         </Contact>
