@@ -97,6 +97,23 @@
   font-size: 1.5rem;
 }
 
+.contact{
+  display: flexbox;
+  align-items: center;
+  justify-content: space-between;
+  -webkit-box-pack: justify;
+  padding: 0px 24px 0px 24px;
+  margin: 0px auto 0px auto;
+  box-sizing: border-box;
+}
+
+
+
+
+.header{
+  height:125px;
+}
+
 .card p {
   margin: 0;
   font-size: 1.25rem;
