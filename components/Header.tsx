@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import Link from "next/link";
-export default function Header(){
+export default function Header(props:any){
 
     const Contact = styled.div`
         display: flex;
