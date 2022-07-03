@@ -18,6 +18,10 @@ yarn dev
 
 ```
 
+### Deploy on Vercel
+
+[Vercel](https://vercel.com)
+
 ### Stack Used
 -   Next - Typescript
 -   [Tailwindcss](https://tailwindcss.com/docs/installation)
@@ -28,4 +32,6 @@ yarn dev
 
 ### Want to Connect?
 #### Dm Me [Twitter](https://twitter.com/harshit16024263)
+
+
 
