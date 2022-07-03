@@ -97,7 +97,7 @@
   font-size: 1.5rem;
 }
 
-.contact{
+.contact {
   display: flexbox;
   align-items: center;
   justify-content: space-between;
@@ -107,11 +107,8 @@
   box-sizing: border-box;
 }
 
-
-
-
-.header{
-  height:125px;
+.header {
+  height: 125px;
 }
 
 .card p {
