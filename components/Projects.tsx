@@ -41,16 +41,19 @@ export default function Projects(props:any){
         <Project>
             <h3> Hacks </h3>
             <ul>
+            
+                
+                <p><a href="https://github.com/EngrGord/Crypto-Inspect" target="_blank" rel = "noreferrer">Gitcoin-Covalent Hackathon 3rd place - Team of 5</a></p>
                 <p><a href="https://github.com/supernovahs/Board-Game" target= "_blank"  rel="noreferrer">Board Game using Zk proofs:Groth16 </a>  </p>
                 <p> <a href="https://github.com/supernovahs/Reciprocating-Apecoin-bot" target = "_blank" rel="noreferrer">NFTx-FlashLoan-ApeClaim MEV Bot </a> </p>            
-                <p> <a href="https://chrome.google.com/webstore/detail/foofa/ikkkelbckkgpnmhaaajkliilkhgmklhf" target = "_blank" rel="noreferrer">Foofa Gas Live Gas Tracker Chrome Extension  </a> </p>            
-                <p> <a href="https://github.com/supernovahs/Foundry-Starter-Kit" target = "_blank" rel="noreferrer">Foundry-Starter-Kit </a> </p>   
                 <p> <a href="https://github.com/supernovahs/DYDX-Flash-loan---FOundry" target = "_blank" rel="noreferrer">Dydx-Flash-Loan Implementation -Foundry-Mainnet Fork </a> </p>            
-                <p> <a href="https://github.com/supernovahs/Quadratic-Funding" target = "_blank" rel="noreferrer">Quadratic Funding calculator Onchain for 2 Projects Prototype </a> </p>            
+                <p> <a href="https://github.com/supernovahs/Foundry-Starter-Kit" target = "_blank" rel="noreferrer">Foundry-Starter-Kit </a> </p>   
                 <p><a href="https://github.com/supernovahs/MultiSig" target="_blank" rel="noreferrer">MultiSig with inbuilt uniswap swap using Gundb as backend</a> </p>
                 <p><a href="https://github.com/supernovahs/BetGame"target="_blank" rel="noreferrer">NBA Betting Game using Chainlink </a></p>
-                <p><a href="https://github.com/supernovahs/Foofa-NFT-fractionalizer-ERC1155-" target="_blank" rel="noreferrer">Foofa NFT Fractionalizer for ERC1155 with inbuilt marketplace with provision for fast liquidity</a></p>
+                <p> <a href="https://github.com/supernovahs/Quadratic-Funding" target = "_blank" rel="noreferrer">Quadratic Funding calculator Onchain for 2 Projects Prototype </a> </p>            
                 <p><a href="https://github.com/supernovahs/Quadratic-Attention-Payments" rel="noreferrer"> Quadratic Attention Payments Prototype  </a></p>
+                <p><a href="https://github.com/supernovahs/Foofa-NFT-fractionalizer-ERC1155-" target="_blank" rel="noreferrer">Foofa NFT Fractionalizer for ERC1155 with inbuilt marketplace with provision for fast liquidity</a></p>
+                <p> <a href="https://chrome.google.com/webstore/detail/foofa/ikkkelbckkgpnmhaaajkliilkhgmklhf" target = "_blank" rel="noreferrer">Foofa Gas Live Gas Tracker Chrome Extension  </a> </p>            
                 
             </ul>
         </Project>
