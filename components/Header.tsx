@@ -48,7 +48,7 @@ export default function Header(props:any){
             <li> <Link href = "mailto:harshitsinghal252@gmail.com">Email</Link></li>
             <li > <Link  href = "https://twitter.com/harshit16024263">Twitter</Link> </li>
             <li> <Link  href = "https://github.com/supernovahs">Github</Link> </li>
-            <li> <Link  href = "">Resume</Link> </li>
+            <li> <Link  href = "https://drive.google.com/file/d/1VDeW_1Dkc0TMS-OeIu53jpxTsLnkDf0W/view?usp=sharing">Resume</Link> </li>
             </ul>
             </div>
         </Contact>

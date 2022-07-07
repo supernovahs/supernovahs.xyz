@@ -41,8 +41,7 @@ export default function Projects(props:any){
         <Project>
             <h3> Hacks </h3>
             <ul>
-            
-                
+
                 <p><a href="https://github.com/EngrGord/Crypto-Inspect" target="_blank" rel = "noreferrer">Gitcoin-Covalent Hackathon 3rd place - Team of 5</a></p>
                 <p><a href="https://github.com/supernovahs/Board-Game" target= "_blank"  rel="noreferrer">Board Game using Zk proofs:Groth16 </a>  </p>
                 <p> <a href="https://github.com/supernovahs/Reciprocating-Apecoin-bot" target = "_blank" rel="noreferrer">NFTx-FlashLoan-ApeClaim MEV Bot </a> </p>            
