@@ -83,7 +83,7 @@ export default function About(props:any){
 
             <Interests>
                 <h3> Interests</h3>
-                <p>  ZeroKnowledgeCryptography , OpenSourceSoftware , Finance</p>
+                <p>  AppliedZK , OpenSourceSoftware , Finance</p>
                
             </Interests>
 
