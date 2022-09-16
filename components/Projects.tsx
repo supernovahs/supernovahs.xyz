@@ -41,7 +41,8 @@ export default function Projects(props:any){
         <Project>
             <h3> Hacks </h3>
             <ul>
-             <p><a href="https://zkvote.vercel.app/" target="_blank" rel = "noreferrer">Zk - Voting </a></p>
+            <p><a href="https://github.com/supernovahs/QuadraticAds-Powered-By-WorldId" target="_blank" rel = "noreferrer">Quadratic Ads-Powered by WorldId (In development) </a></p>
+             <p><a href="https://zkvote.vercel.app/" target="_blank" rel = "noreferrer">Zk - Voting - In active Development </a></p>
             <p><a href="https://github.com/supernovahs/BuidlGuidl-Stream-contract/tree/master" target="_blank" rel = "noreferrer">BuidlGuidl Optimized Stream contract</a></p>
             <p><a href="https://github.com/supernovahs/JB-multisig" target="_blank" rel = "noreferrer">MultiSig interface for Juicebox V2 - Hackathon</a></p>
                 <p><a href="https://github.com/EngrGord/Crypto-Inspect" target="_blank" rel = "noreferrer">Gitcoin-Covalent Hackathon 3rd place - Team of 5</a></p>
