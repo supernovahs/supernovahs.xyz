@@ -74,17 +74,23 @@ export default function About(props:any){
             </div>
             <ul>
 
-            <li>I am a developer at BuidlGuidl , a public good , creating and researching for the ethereum ecosystem</li>
-            <li>Task is to learn new stuff , build dapps and  try to make others learn </li>
-
-            
+            <li>I am a developer at <a href="https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8" target="_blank" rel = "noreferrer"><b>BuidlGuidl</b></a>  , a public good , creating and researching for the ethereum ecosystem</li>            
             </ul>
+            <h3>Languages:In order of proficiency</h3>
+            <ul>
+                <li>
+                    Solidity, Js and Ts,Circom,Python,Rust
+                </li>
+            </ul>
+            <h3>
+                Frameworks/Stack
+            </h3>
+            <ul><li>Reactjs, TailwindCss,Foundry,Scaffold-Eth,Wagmi,Nextjs</li></ul>
             </FirstIntro>
 
             <Interests>
                 <h3> Interests</h3>
-                <p>  AppliedZK , OpenSourceSoftware , Finance</p>
-               
+                <p>  AppliedZK , Audit </p>
             </Interests>
 
 
