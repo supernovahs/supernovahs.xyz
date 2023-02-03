@@ -73,8 +73,8 @@ export default function About(props:any){
             <h3>About</h3>
             </div>
             <ul>
-
-            <li>I am a developer at <a href="https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8" target="_blank" rel = "noreferrer"><b>BuidlGuidl</b></a>  , a public good , creating and researching for the ethereum ecosystem</li>            
+            <li>Security Researcher at Code4rena , Sherlock</li>
+            <li>Developer at <a href="https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8" target="_blank" rel = "noreferrer"><b>BuidlGuidl</b></a>  , a public good , creating and researching for the ethereum ecosystem</li>            
             </ul>
             <h3>Languages:In order of proficiency</h3>
             <ul>
