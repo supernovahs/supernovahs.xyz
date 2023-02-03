@@ -41,6 +41,8 @@ export default function Projects(props:any){
         <Project>
             <h3> Hacks </h3>
             <ul>
+            <p><a href="https://github.com/supernovahs/zebra" target="_blank" rel = "noreferrer">Smart contract building blocks</a></p>
+            <p><a href="https://github.com/supernovahs/SeaportBook" target="_blank" rel = "noreferrer">Seaport Development Book</a></p>
              <p><a href="https://github.com/supernovahs/sloot" target="_blank" rel = "noreferrer">Track storage slots(EVM) that matters you the most</a></p>
              <p><a href="https://github.com/supernovahs/Natspec" target="_blank" rel = "noreferrer">Generate Perfect Natspec for Contracts </a></p>
             <p><a href="https://worldads.vercel.app/" target="_blank" rel = "noreferrer">Quadratic Ads-Powered by WorldId -EthOnline </a></p>
