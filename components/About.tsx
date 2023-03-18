@@ -74,7 +74,7 @@ export default function About(props:any){
             </div>
             <ul>
             <li>Security Researcher at Code4rena , Sherlock</li>
-            <li>Researcher at <a href = "https://www.rareskills.io/">Rareskills<a/></li>
+            <li>Researcher at <a href = "https://www.rareskills.io/" target="_blank" rel = "noreferrer">Rareskills</a></li>
             <li>Developer at <a href="https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8" target="_blank" rel = "noreferrer"><b>BuidlGuidl</b></a>  , a public good , creating and researching for the ethereum ecosystem</li>            
             </ul>
             <h3>Languages:In order of proficiency</h3>
