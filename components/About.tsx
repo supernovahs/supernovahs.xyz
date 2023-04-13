@@ -74,26 +74,26 @@ export default function About(props:any){
             </div>
             <ul>
             <li>Security Researcher at Code4rena , Sherlock</li>
-            <li>Researcher at <a href = "https://www.rareskills.io/" target="_blank" rel = "noreferrer">Rareskills</a></li>
-            <li>Developer at <a href="https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8" target="_blank" rel = "noreferrer"><b>BuidlGuidl</b></a>  , a public good , creating and researching for the ethereum ecosystem</li>            
+            <li> Fellow <a href = "https://yacademy.dev/" target="_blank" rel = "noreferrer">yAcademy</a></li>
+            <li>Research Engineer at <a href = "https://www.rareskills.io/" target="_blank" rel = "noreferrer">Rareskills</a></li>
+            <li>Damage Dealer at <a href="https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8" target="_blank" rel = "noreferrer"><b>BuidlGuidl</b></a>  , a public good , creating and researching for the ethereum ecosystem</li>            
             </ul>
             <h3>Languages:In order of proficiency</h3>
             <ul>
                 <li>
-                    Solidity, Js and Ts,Circom,Python,Rust
+                    Solidity,Js, Huff, Circom ,Rust 
                 </li>
             </ul>
             <h3>
                 Frameworks/Stack
             </h3>
-            <ul><li>Reactjs, TailwindCss,Foundry,Scaffold-Eth,Wagmi,Nextjs</li></ul>
+            <ul><li>Foundry,Scaffold-Eth 2 ,Wagmi,Nextjs, Ethersjs, ether-rs</li></ul>
             </FirstIntro>
 
             <Interests>
                 <h3> Interests</h3>
                 <p>  AppliedZK , Audit </p>
             </Interests>
-
 
         </div>
 

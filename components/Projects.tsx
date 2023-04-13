@@ -41,6 +41,8 @@ export default function Projects(props:any){
         <Project>
             <h3> Hacks </h3>
             <ul>
+
+            <p><a href="https://github.com/supernovahs/SignatureCollider" target="_blank" rel = "noreferrer">Signature Collision Verifier between for proxies</a></p>
             <p><a href="https://github.com/supernovahs/zebra" target="_blank" rel = "noreferrer">Smart contract building blocks</a></p>
             <p><a href="https://github.com/supernovahs/SeaportBook" target="_blank" rel = "noreferrer">Seaport Development Book</a></p>
              <p><a href="https://github.com/supernovahs/sloot" target="_blank" rel = "noreferrer">Track storage slots(EVM) that matters you the most</a></p>
