@@ -41,7 +41,8 @@ export default function Projects(props:any){
         <Project>
             <h3> Hacks </h3>
             <ul>
-
+            <p><a href="https://github.com/supernovahs/contract-x-contract" target="_blank" rel = "noreferrer">Smart Contract Security Engineering Effort</a></p>
+            <p><a href="https://github.com/supernovahs/Sudoku-Verifier-Noir" target="_blank" rel = "noreferrer">4 By 4 Sudoku Verifier in Noir Lang</a></p>
             <p><a href="https://github.com/supernovahs/SignatureCollider" target="_blank" rel = "noreferrer">Signature Collision Verifier between for proxies</a></p>
             <p><a href="https://github.com/supernovahs/zebra" target="_blank" rel = "noreferrer">Smart contract building blocks</a></p>
             <p><a href="https://github.com/supernovahs/SeaportBook" target="_blank" rel = "noreferrer">Seaport Development Book</a></p>
