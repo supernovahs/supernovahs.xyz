@@ -73,7 +73,7 @@ export default function About(props:any){
             <h3>About</h3>
             </div>
             <ul>
-            <li>Paradigm <a href = "https://github.com/paradigmxyz/reth" target="_blank" rel = "noreferrer">Reth</a> (#26 All Time) Contributor</li>    
+            <li>Paradigm <a href = "https://github.com/paradigmxyz/reth" target="_blank" rel = "noreferrer">Reth</a> (#23 All Time) Contributor</li>    
             <li>Security Researcher at Code4rena , Sherlock</li>
             <li> Fellow <a href = "https://yacademy.dev/" target="_blank" rel = "noreferrer">yAcademy</a></li>
             <li>Research Engineer at <a href = "https://www.rareskills.io/" target="_blank" rel = "noreferrer">Rareskills</a></li>
