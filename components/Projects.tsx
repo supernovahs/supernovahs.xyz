@@ -41,6 +41,7 @@ export default function Projects(props:any){
         <Project>
             <h3> Hacks </h3>
             <ul>
+            <p><a href="https://devfolio.co/projects/zksunade-bd14" target="_blank" rel = "noreferrer">Zk-Sunade: optimized Groth16 verifier using Arbitrum Stylus</a></p>
             <p><a href="https://ethglobal.com/showcase/web3-soundbox-in4kn" target="_blank" rel = "noreferrer">Web3 SoundBox - ETH PARIS Winner in 2 sponsors</a></p>
             <p><a href="https://github.com/RareSkills/noir-puzzles" target="_blank" rel = "noreferrer">Noir Zero Knowledge Puzzles</a></p>
             <p><a href="https://github.com/RareSkills/zero-knowledge-puzzles" target="_blank" rel = "noreferrer">Circom Zero Knowledge Puzzles</a></p>
