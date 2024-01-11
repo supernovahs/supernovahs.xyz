@@ -73,8 +73,8 @@ export default function About(props:any){
             <h3>About</h3>
             </div>
             <ul>
-            <li>Paradigm <a href = "https://github.com/paradigmxyz/reth" target="_blank" rel = "noreferrer">Reth</a> (#16 All Time) Contributor</li>    
-            <li>Security Researcher at Code4rena , Sherlock</li>
+            <li>Paradigm <a href = "https://github.com/paradigmxyz/reth" target="_blank" rel = "noreferrer">Reth</a> (#14 All Time) Contributor</li>    
+            <li>Auditor</li>
             <li>Damage Dealer at <a href="https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8" target="_blank" rel = "noreferrer"><b>BuidlGuidl</b></a>  , a public good , creating and researching for the ethereum ecosystem</li>  
             
             <b>Prev:</b>          
