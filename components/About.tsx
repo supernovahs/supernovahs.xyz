@@ -70,7 +70,7 @@ export default function About(props:any){
             <FirstIntro>
             <div>
 
-            <h3>About</h3>
+            <h3>I am a  🦀 focused engineer working on ethereum.</h3>
             </div>
             <ul>
             <li>Paradigm <a href = "https://github.com/paradigmxyz/reth" target="_blank" rel = "noreferrer">Reth</a> (#14 All Time) Contributor</li>    
@@ -78,19 +78,19 @@ export default function About(props:any){
             <li>Damage Dealer at <a href="https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8" target="_blank" rel = "noreferrer"><b>BuidlGuidl</b></a>  , a public good , creating and researching for the ethereum ecosystem</li>  
             
             <b>Prev:</b>          
-            <li> Research Engineer at <a href = "https://www.rareskills.io/" target="_blank" rel = "noreferrer">Rareskills</a></li>
+            <li> Research Engineer at <a href = "h ttps://www.rareskills.io/" target="_blank" rel = "noreferrer">Rareskills</a></li>
             <li> Fellow <a href = "https://yacademy.dev/" target="_blank" rel = "noreferrer">yAcademy</a></li>
             </ul>
             <h3>Languages:In order of proficiency</h3>
             <ul>
                 <li>
-                    Solidity,Rust,Noir,Js, Huff, Circom  
+                Rust,Solidity,Noir,Js, Huff, Circom  
                 </li>
             </ul>
             <h3>
                 Frameworks/Stack
             </h3>
-            <ul><li>Foundry,Viem,Scaffold-Eth 2 ,Wagmi,Nextjs, Ethersjs, ether-rs</li></ul>
+            <ul><li>Alloy,Foundry,Viem,Scaffold-Eth 2 ,Wagmi,Nextjs, Ethersjs, ether-rs</li></ul>
             </FirstIntro>
 
             <Interests>
