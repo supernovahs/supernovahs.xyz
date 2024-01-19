@@ -60,7 +60,7 @@ export default function About(props:any){
             </div>
             <StyledList>
             <ListItem>Paradigm <a href = "https://github.com/paradigmxyz/reth" target="_blank" rel = "noreferrer">Reth</a> (#14 All Time) Contributor</ListItem>    
-            <ListItem>Auditor</ListItem>
+            <ListItem>Security</ListItem>
             <ListItem>Damage Dealer at <a href="https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8" target="_blank" rel = "noreferrer"><b>BuidlGuidl</b></a>  , a public good , creating and researching for the ethereum ecosystem</ListItem>  
             
             <b>Prev:</b>          

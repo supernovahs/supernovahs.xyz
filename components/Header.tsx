@@ -4,16 +4,16 @@ export default function Header(props:any){
 
     const Contact = styled.div`
         display: flex;
-        justify-content: flex-end; // Aligns items to the right
+        justify-content: flex-end; 
         align-items: center;
-        width: 100%; // Ensures the div takes full width
+        width: 100%;
         padding: 0 10px;
         border-bottom: 1px solid #e6e6e6;
 
         ul {
-            list-style: none; // Removes default list styling
-            margin: 0; // Removes default margin
-            padding: 0; // Removes default padding
+            list-style: none; 
+            margin: 0;
+            padding: 0; 
         }
 
         li {
@@ -27,9 +27,9 @@ export default function Header(props:any){
         a {
             text-decoration: none;
             color: #4c525c;
-            border-bottom: 1px solid transparent; // Invisible border
+            border-bottom: 1px solid transparent; 
             &:hover {
-                border-bottom: 1px solid #4c525c; // Underlines text on hover
+                border-bottom: 1px solid #4c525c;
             }
         }
     `;

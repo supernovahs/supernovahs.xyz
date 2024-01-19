@@ -3,30 +3,29 @@ import styled from "styled-components";
 export default function Projects(props:any){
 
     const ProjectsContainer = styled.div`
-    text-align: center; // Centers the text of the direct children
-    width: 100%; // Sets the width of the container
+    text-align: center; 
+    width: 100%;
 `;
 
 const StyledList = styled.ul`
-    list-style-type: none; // Removes the default list styling
-    padding: 0; // Removes default padding
-    display: block; // Makes the ul a block-level element
-    margin: auto; // Centers the block-level element horizontally
-    max-width: 600px; // Adjust this to fit your design
+    list-style-type: none; 
+    padding: 0; 
+    display: block; 
+    margin: auto; 
+    max-width: 600px; 
 `;
 
 const StyledListItem = styled.li`
     color: #4c525c;
-    margin-bottom: 15px; // Space between list items
-    display: inline-block; // Makes the li inline-block to allow centering with text-align
-    text-align: left; // Aligns the text to the left within the centered li
-    width: 100%; // Ensures the text alignment takes effect
+    margin-bottom: 15px;
+    display: inline-block; 
+    text-align: left;
+    width: 100%; 
 `;
 
     return (
         <>
         <ProjectsContainer>
-
             <h3> Hacks </h3>
             <StyledList>
             <StyledListItem><a href="https://devfolio.co/projects/zksunade-bd14" target="_blank" rel = "noreferrer">Zk-Sunade: optimized Groth16 verifier using Arbitrum Stylus</a></StyledListItem>
@@ -56,7 +55,6 @@ const StyledListItem = styled.li`
                 <StyledListItem><a href="https://github.com/supernovahs/Foofa-NFT-fractionalizer-ERC1155-" target="_blank" rel="noreferrer">Foofa NFT Fractionalizer for ERC1155 with inbuilt marketplace with provision for fast liquidity</a></StyledListItem>
                 <StyledListItem> <a href="https://chrome.google.com/webstore/detail/foofa/ikkkelbckkgpnmhaaajkliilkhgmklhf" target = "_blank" rel="noreferrer">Foofa Gas Live Gas Tracker Chrome Extension  </a> </StyledListItem>            
             </StyledList>
-
         </ProjectsContainer>
         </>
     )
