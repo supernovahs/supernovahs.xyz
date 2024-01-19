@@ -77,7 +77,6 @@ export default function About(props:any){
                 Frameworks/Stack
             </h3>
             <StyledList><ListItem>Alloy,Foundry,Viem,Scaffold-Eth 2 ,Wagmi,Nextjs, Ethersjs, ether-rs</ListItem></StyledList>
-            <StyledList><ListItem>Alloy,Foundry,Viem,Scaffold-Eth 2 ,Wagmi,Nextjs, Ethersjs, ether-rs</ListItem></StyledList>
             </FirstIntro>
 
             <Interests>
