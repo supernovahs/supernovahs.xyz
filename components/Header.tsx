@@ -4,54 +4,57 @@ export default function Header(props:any){
 
     const Contact = styled.div`
         display: flex;
-        justify-content: space-between; 
+        justify-content: flex-end; // Aligns items to the right
         align-items: center;
-        max-width: 18   00px;
-        padding: 0  10px;
-        margin: 0 10px;
+        width: 100%; // Ensures the div takes full width
+        padding: 0 10px;
         border-bottom: 1px solid #e6e6e6;
 
+        ul {
+            list-style: none; // Removes default list styling
+            margin: 0; // Removes default margin
+            padding: 0; // Removes default padding
+        }
 
         li {
-            color: #4c525c;
-            margin:8px;
-            font-family: -apple-system, -apple-system, 
-                BlinkMacSystemFont, 'Segoe UI', Roboto, 
-                Oxygen, Ubuntu, Cantarell, 'Open Sans', 
-                'Helvetica Neue', sans-serif;
-            border-bottom: 1px solid #4c525c;
             display: inline-block;
+            margin: 0 8px;
+            padding-bottom: 5px; // Provides spacing and underlines effect on hover
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
             transition: all 0.2s ease-in-out;
+        }
+
+        a {
             text-decoration: none;
-        }
-
-        a{
-            
-            text-decoration:none;
             color: #4c525c;
+            border-bottom: 1px solid transparent; // Invisible border
+            &:hover {
+                border-bottom: 1px solid #4c525c; // Underlines text on hover
+            }
         }
-       
-
-    `
+    `;
     
     return(
-      <>
+        <>
         <Contact>
-            <div>
-                <Link style = {{textDecoration:"none",border:"1px solid black"}} href= "/">
-                    <img src="logo.png" alt="" height="40" width="40" />
-                </Link>
-            </div>
-            <div>
             <ul>
-
-            <li> <Link href = "mailto:supernovahs@proton.me">Email</Link></li>
-            <li > <Link  href = "https://twitter.com/harshit16024263">Twitter</Link> </li>
-            <li> <Link  href = "https://github.com/supernovahs">Github</Link> </li>
+                <li>
+                    <Link href="mailto:supernovahs@proton.me" passHref>
+                        <a>Email</a>
+                    </Link>
+                </li>
+                <li>
+                    <Link href="https://twitter.com/supernovahs444" passHref>
+                        <a>Twitter</a>
+                    </Link>
+                </li>
+                <li>
+                    <Link href="https://github.com/supernovahs" passHref>
+                        <a>Github</a>
+                    </Link>
+                </li>
             </ul>
-            </div>
         </Contact>
-        
-      </>
+    </>
     )
 }
