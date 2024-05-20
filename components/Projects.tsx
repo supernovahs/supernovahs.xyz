@@ -28,6 +28,7 @@ const StyledListItem = styled.li`
         <ProjectsContainer>
             <h3> Hacks </h3>
             <StyledList>
+            <StyledListItem><a href="https://github.com/supernovahs/eigensdk-rs" target="_blank" rel = "noreferrer">eigen-rs: Rust SDK to develop AVS on eigenlayer</a></StyledListItem>
             <StyledListItem><a href="https://devfolio.co/projects/zksunade-bd14" target="_blank" rel = "noreferrer">Zk-Sunade: optimized Groth16 verifier using Arbitrum Stylus</a></StyledListItem>
             <StyledListItem><a href="https://ethglobal.com/showcase/web3-soundbox-in4kn" target="_blank" rel = "noreferrer">Web3 SoundBox - ETH PARIS Winner in 2 sponsors</a></StyledListItem>
             <StyledListItem><a href="https://github.com/RareSkills/noir-puzzles" target="_blank" rel = "noreferrer">Noir Zero Knowledge Puzzles</a></StyledListItem>
