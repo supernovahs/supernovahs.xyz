@@ -59,11 +59,11 @@ export default function About(props:any){
             <h3>I am a  🦀 focused engineer working on ethereum.</h3>
             </div>
             <StyledList>
-            <ListItem>🦀 Engineer at eigenlabs </ListItem>    
-            <ListItem>Paradigm <a href = "https://github.com/paradigmxyz/reth" target="_blank" rel = "noreferrer">Reth</a>  Contributor</ListItem>    
-            <ListItem>Security</ListItem>
             
-            <b>Prev:</b>          
+            <b>Prev:</b>
+
+            <ListItem>Backend Engineer at eigenlabs </ListItem>    
+            <ListItem>Paradigm <a href = "https://github.com/paradigmxyz/reth" target="_blank" rel = "noreferrer">Reth</a>  Contributor</ListItem>    
             <ListItem>Damage Dealer at <a href="https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8" target="_blank" rel = "noreferrer"><b>BuidlGuidl</b></a>  , a public good , creating and researching for the ethereum ecosystem</ListItem>  
             <ListItem> Research Engineer at <a href = "h ttps://www.rareskills.io/" target="_blank" rel = "noreferrer">Rareskills</a></ListItem>
             <ListItem> Fellow <a href = "https://yacademy.dev/" target="_blank" rel = "noreferrer">yAcademy</a></ListItem>
@@ -86,7 +86,7 @@ export default function About(props:any){
                 <ListItem>  AppliedZK , Audit </ListItem>
                 </StyledList>
             </Interests>
-            </CenteredContainer>
+            </CenteredContainer>`
 
         </div>
 
